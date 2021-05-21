@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://packet64.net/sitemap.xml
